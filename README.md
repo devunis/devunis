@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=22&center=true&vCenter=true&width=500&lines=Hello+World!;Backend+Developer;AI+%26+Data+Engineer)](https://git.io/typing-svg)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devunis&theme=github-dark)
+
 # 허정윤 | Backend & AI Developer
 
 📞 010-9083-8611 | ✉️ [gjwjddbsg@gmail.com](mailto:gjwjddbsg@gmail.com) | 🌐 [github.com/devunis](https://github.com/devunis) | 🏙 서울 동대문구  
