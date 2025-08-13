@@ -13,9 +13,12 @@
 ---
 
 ## 📊 활동 & 통계
+[![Trophy](https://github-profile-trophy.vercel.app/?username=devunis&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devunis&theme=github-dark)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gjwjddbsg)](https://solved.ac/gjwjddbsg)  
-[![Trophy](https://github-profile-trophy.vercel.app/?username=devunis&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)  
+<a href="https://leetcode.com/gjwjddbsg/">
+  <img src="https://leetcard.jacoblin.cool/gjwjddbsg?theme=dark&ext=activity" alt="leetcode" />
+</a>
 
 ---
 
