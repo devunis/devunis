@@ -1,14 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=22&vCenter=true&width=500&lines=Hello+World!;Backend+Developer;AI+%26+Data+Engineer)](https://git.io/typing-svg) 
-# 허정윤 | Backend & AI Developer  
-📞 010-9083-8611 | ✉️ [gjwjddbsg@gmail.com](mailto:gjwjddbsg@gmail.com) | 🌐 [github.com/devunis](https://github.com/devunis) | 🏙 서울 동대문구  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=22&vCenter=true&width=650&lines=Backend+Developer;AI+Service+Builder;Computer+Vision+%26+RAG+Engineer)](https://git.io/typing-svg)
+# 허정윤 | Backend & AI Developer
+✉️ [gjwjddbsg@gmail.com](mailto:gjwjddbsg@gmail.com) | 🌐 [github.com/devunis](https://github.com/devunis) | 🏙 Seoul, Korea
 
 ---
 
 ## 🖋 인사말 & 소개
 
-
 > **2년 7개월** Java Spring 기반 헬스케어·의료 시스템 유지보수 및 신규 개발 경험  
-> **백엔드·AI 서비스 개발**, **데이터 파이프라인 설계**, **클라우드 배포**에 강점  
+> **백엔드 API**, **AI 서비스**, **데이터 파이프라인**, **클라우드 배포**를 연결해 실제 동작하는 서비스를 만드는 데 집중합니다.
+
+- Spring Boot 기반 업무 시스템, 병원 EMR 연동, 헬스케어 데이터 처리 경험
+- RAG, LangGraph, Vector DB, LLM 파인튜닝 기반 AI 서비스 개발
+- 브라우저 기반 Computer Vision, 실시간 카메라/영상 분석 프로젝트 확장 중
 
 ---
 
@@ -34,8 +37,11 @@
 **데이터 & AI**  
 ![OpenAI GPT](https://img.shields.io/badge/OpenAI_GPT-412991?logo=openai&logoColor=white) 
 ![LangChain](https://img.shields.io/badge/LangChain-0B0B0B?logo=chainlink&logoColor=white) 
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logo=graphql&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-FF6F00?logo=qdrant&logoColor=white) 
 ![FAISS](https://img.shields.io/badge/FAISS-00BFB3?logo=apache&logoColor=white) 
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?logo=google&logoColor=white)
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
 
 **데이터베이스 & 인프라**  
@@ -45,6 +51,13 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)  
+
+---
+
+## 🎯 현재 관심 분야
+- LLM 기반 RAG/Agent 서비스의 검색 품질, 응답 안정성, 운영 자동화
+- 카메라·영상 입력을 활용한 실시간 Computer Vision 서비스
+- Spring Boot 백엔드와 AI 모델/API를 연결하는 프로덕션 아키텍처
 
 ---
 
@@ -60,6 +73,18 @@
 ---
 
 ## 🚀 AI 주요 프로젝트
+
+### 👁 **Vision Analyzer** | 브라우저 기반 카메라·영상 분석 도구
+> **기간**: 2026.07
+> **기술 스택**: JavaScript, MediaPipe Tasks Vision, TensorFlow Lite, Canvas API
+> **역할**: 프론트엔드 구현, 실시간 분석 파이프라인 설계
+
+- 카메라 또는 업로드 영상에서 사물, 얼굴 표정, 손짓을 브라우저 내에서 분석
+- Object Detector, Face Landmarker, Gesture Recognizer를 한 화면에 통합
+- 감지 결과 오버레이, 이벤트 타임라인, PNG 스냅샷 저장 기능 구현
+- 영상 프레임을 서버로 업로드하지 않는 온디바이스 처리 구조 적용
+
+---
 
 ### 🛍 **SenPick** | LLM 기반 맞춤형 선물 추천 서비스  
 > **기간**: 2025.05 – 2025.06  
